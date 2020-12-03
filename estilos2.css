@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: rgb(9, 131, 231);
+}
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px;
+    background: #fff;
+    margin-top: 60px;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-weight: 100px;
+}
+
+.contenedor p{
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+#img1{
+    float: left;
+  width: 300px;
+  height: 300px;
+}
+
+#img2{
+    float: right;
+    width: 300px;
+    height: 300px;
+}

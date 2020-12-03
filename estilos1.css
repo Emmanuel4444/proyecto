@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  background: rgb(202, 34, 22);
+}
+.CONTENEDOR{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px;
+  background: #fff;
+  margin-top: 60px;
+}
+.TITULO{
+   text-align: center;
+   font-size: 40px;
+   margin-bottom: 40px;
+   font-weight: 100px;
+}
+.CONTENEDOR img{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+.CONTENEDOR p{
+  text-align: justify;
+  font-size: 25px;
+  font-weight: 100;
+}
+
+#img3{
+  float: left;
+  width: 200px;
+  height: 300px;
+}
+
+
